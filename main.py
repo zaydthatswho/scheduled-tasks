@@ -9,6 +9,7 @@
 import datetime
 import smtplib
 from email.message import EmailMessage
+import os
 
 
 # import os and use it to get the Github repository secrets
